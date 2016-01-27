@@ -12,6 +12,19 @@ input {
 	padding: 0.25em;
 }
 
+footer {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	font-size: 40%;
+	color: #666;
+	padding: 1em;
+}
+
+footer a {
+	color: #333;
+}
+
 #input-section {
 	padding: 1em;
 	border-bottom: 1px solid #ccc;
